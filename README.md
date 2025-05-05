@@ -10,4 +10,4 @@
 - [ox_target](https://github.com/overextended/ox_target)
 
 ## Support ##
-- **Discord**: [[join my Discord Server]([(https://discord.gg/pTWeBNqgXW)])
+- **Discord**: [join my Discord Server](https://discord.gg/pTWeBNqgXW)
